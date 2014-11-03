@@ -2,7 +2,7 @@
   "name": "timeywimey",
   "version": "0.5.0",
   "description": "A task scheduler and idle-detector for JavaScript.  Goes ding when there's stuff.",
-  "keywords": "idle, schedule, scheduler, time, task, tasks",
+  "keywords": ["idle", "schedule", "scheduler", "time", "task", "tasks"],
   "homepage": "http://strictlyskyler.github.io/timeywimey/",
   "bugs": {
     "url": "https://github.com/StrictlySkyler/timeywimey/issues",
